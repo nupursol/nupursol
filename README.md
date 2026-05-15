@@ -1,21 +1,21 @@
 ### Hi, I'm Nupur
 
-CS student interested in the intersection of software engineering and systematic research — building things that combine code, data, and markets.
+Working in quant finance — focused on systematic trading research and strategy design.
 
 ---
 
-**Currently building**
+**Building**
 
-- **[spy-gap-fade](https://github.com/nupursol/spy-gap-fade)** — a regime-aware mean-reversion backtester for SPY. 5-year backtest passes five performance gates (Sharpe 1.41, profit factor 1.32, max drawdown -3.5%). Python, pandas, vectorbt.
+- **[spy-gap-fade](https://github.com/nupursol/spy-gap-fade)** — regime-aware mean-reversion backtester for SPY. 5-year backtest passes five performance gates: Sharpe 1.41 · profit factor 1.32 · max drawdown −3.5%.
 
-**Tools I work with**
+**Interested in**
 
-`Python` · `TypeScript` · `pandas` · `numpy` · `vectorbt` · `Next.js`
+Systematic strategy research, regime modeling, parameter-robustness testing, and the gap between "great backtest" and "real out-of-sample edge."
 
-**What I'm exploring**
+**Stack**
 
-Quantitative strategy research, parameter robustness testing, and the gap between "backtest looks great" and "this would survive out-of-sample."
+`Python` · `pandas` · `numpy` · `vectorbt` · `matplotlib`
 
 ---
 
-Reach me at [nupur@bu.edu](mailto:nupur@bu.edu)
+[nupurdsolanki@gmail.com](mailto:nupurdsolanki@gmail.com)

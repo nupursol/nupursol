@@ -19,3 +19,4 @@ Systematic strategy research, regime modeling, parameter-robustness testing, and
 ---
 
 [nupurdsolanki@gmail.com](mailto:nupurdsolanki@gmail.com)
+

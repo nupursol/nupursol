@@ -1,6 +1,6 @@
 ### Hi, I'm Nupur
 
-Working in quant finance — focused on systematic trading research and strategy design.
+Working in quant finance — focused on systematic trading research and strategy design. 
 
 ---
 
